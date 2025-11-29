@@ -21,14 +21,14 @@
                 "id": "v1",
                 "title": "Leather",
                 "name": "leather",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_leather-black.png",
+                "icon": "/files/samples/twiggy/texture_leather-black.png",
                 "color": "black",
                 "price": 1,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_leather_black.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_body_leather_black.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_body_leather_black.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_leather_black.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_body_leather_black.webp",
+                  "base": "/files/samples/twiggy/3d/color_body_leather_black.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_body_leather_black.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_body_leather_black.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.55
                 }
@@ -37,14 +37,14 @@
                 "id": "v2",
                 "title": "Suede",
                 "name": "suede",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_suede_brown.png",
+                "icon": "/files/samples/twiggy/texture_suede_brown.png",
                 "color": "saddlebrown",
                 "price": 2,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_suede_brown.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_body_suede_brown.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_body_suede_brown.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_suede_brown.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_body_suede_brown.webp",
+                  "base": "/files/samples/twiggy/3d/color_body_suede_brown.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_body_suede_brown.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_body_suede_brown.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.61
                 }
@@ -53,14 +53,14 @@
                 "id": "v3",
                 "title": "Wool",
                 "name": "wool",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_wool_green.png",
+                "icon": "/files/samples/twiggy/texture_wool_green.png",
                 "color": "darkolivegreen",
                 "price": 3,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_wool_green.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_body_wool_green.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_body_wool_green.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_body_wool_green.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_body_wool_green.webp",
+                  "base": "/files/samples/twiggy/3d/color_body_wool_green.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_body_wool_green.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_body_wool_green.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.62
                 }
@@ -76,14 +76,14 @@
                 "id": "v1",
                 "title": "Dark Metal",
                 "name": "dark_metal",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_leather-black.png",
+                "icon": "/files/samples/twiggy/texture_leather-black.png",
                 "color": "gray",
                 "price": 1,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_legs_metal_dark.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_legs_metal_dark.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
+                  "base": "/files/samples/twiggy/3d/color_legs_metal_dark.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_legs_metal_dark.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.62
                 }
@@ -92,14 +92,14 @@
                 "id": "v2",
                 "title": "Light Metal",
                 "name": "lighy_metal",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_leather-black.png",
+                "icon": "/files/samples/twiggy/texture_leather-black.png",
                 "color": "lightgray",
                 "price": 2,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_legs_metal_light.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_legs_metal_light.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_legs_metal_light.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_legs_metal_light.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_legs_metal_light.webp",
+                  "base": "/files/samples/twiggy/3d/color_legs_metal_light.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_legs_metal_light.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_legs_metal_light.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.62
                 }
@@ -115,14 +115,14 @@
                 "id": "v1",
                 "title": "Green",
                 "name": "green",
-                "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/texture_wool_green.png",
+                "icon": "/files/samples/twiggy/texture_wool_green.png",
                 "color": "yellowgreen",
                 "price": 1,
                 "srcs": {
-                  "ao": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_cushions_green.webp",
-                  "base": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/color_cushions_green.webp",
-                  "normal": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/normal_cushions_green.webp",
-                  "rough": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/orm_cushions_green.webp",
+                  "ao": "/files/samples/twiggy/3d/orm_cushions_green.webp",
+                  "base": "/files/samples/twiggy/3d/color_cushions_green.webp",
+                  "normal": "/files/samples/twiggy/3d/normal_cushions_green.webp",
+                  "rough": "/files/samples/twiggy/3d/orm_cushions_green.webp",
                   "metallicFactor": 0,
                   "roughnessFactor": 0.62
                 }
@@ -137,36 +137,36 @@
         "id": "t1",
         "titile": "Image 1",
         "name": "image",
-        "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/thumbnail_leather_black.png",
-        "src": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/render_leather_black.png"
+        "icon": "/files/samples/twiggy/thumbnail_leather_black.png",
+        "src": "/files/samples/twiggy/render_leather_black.png"
       },
       {
         "id": "t2",
         "titile": "Image 2",
         "name": "image",
-        "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/thumbnail_suede_brown.png",
-        "src": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/render_suede_brown.png"
+        "icon": "/files/samples/twiggy/thumbnail_suede_brown.png",
+        "src": "/files/samples/twiggy/render_suede_brown.png"
       },
       {
         "id": "t3",
         "titile": "Image 3",
         "name": "image",
-        "icon": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/thumbnail_wool_green.png",
-        "src": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/render_wool-green.png"
+        "icon": "/files/samples/twiggy/thumbnail_wool_green.png",
+        "src": "/files/samples/twiggy/render_wool-green.png"
       },
       {
         "id": "t4",
         "titile": "3D 1",
         "name": "3d",
         "default": true,
-        "poster": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/render_leather_brown.png",
-        "src": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/3d/3d_twiggy.glb"
+        "poster": "/files/samples/twiggy/render_leather_brown.png",
+        "src": "/files/samples/twiggy/3d/3d_twiggy.glb"
       },
       {
         "id": "t5",
         "titile": "Video 1",
         "name": "video",
-        "src": "https://raw.githubusercontent.com/foundcamp/heymstudio.data/refs/heads/main/files/samples/twiggy/video.mp4"
+        "src": "/files/samples/twiggy/video.mp4"
       }
     ]
   },
