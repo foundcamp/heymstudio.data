@@ -1,0 +1,174 @@
+{
+  "id": "eoGNHGrs",
+  "name": "twiggy",
+  "siteId": "aJBs5tD9",
+  "type": "viewer",
+  "title": "Twiggy",
+  "description": "Buy minimalist furniture at a great price Minimalist furniture with simple design and clean lines is one of the most popular choices for modern decorations ...",
+  "meta": {
+    "objects": [
+      {
+        "id": "o1",
+        "title": "Object 1",
+        "name": "object-1",
+        "parts": [
+          {
+            "id": "p1",
+            "title": "Body",
+            "name": "mat_body_fabric",
+            "variants": [
+              {
+                "id": "v1",
+                "title": "Leather",
+                "name": "leather",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_leather-black.png",
+                "color": "black",
+                "price": 1,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_leather_black.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_body_leather_black.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_body_leather_black.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_leather_black.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.55
+                }
+              },
+              {
+                "id": "v2",
+                "title": "Suede",
+                "name": "suede",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_suede_brown.png",
+                "color": "saddlebrown",
+                "price": 2,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_suede_brown.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_body_suede_brown.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_body_suede_brown.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_suede_brown.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.61
+                }
+              },
+              {
+                "id": "v3",
+                "title": "Wool",
+                "name": "wool",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_wool_green.png",
+                "color": "darkolivegreen",
+                "price": 3,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_wool_green.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_body_wool_green.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_body_wool_green.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_body_wool_green.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.62
+                }
+              }
+            ]
+          },
+          {
+            "id": "p2",
+            "title": "Legs",
+            "name": "mat_metal_legs",
+            "variants": [
+              {
+                "id": "v1",
+                "title": "Dark Metal",
+                "name": "dark_metal",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_leather-black.png",
+                "color": "gray",
+                "price": 1,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_legs_metal_dark.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_legs_metal_dark.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_legs_metal_dark.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.62
+                }
+              },
+              {
+                "id": "v2",
+                "title": "Light Metal",
+                "name": "lighy_metal",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_leather-black.png",
+                "color": "lightgray",
+                "price": 2,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_legs_metal_light.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_legs_metal_light.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_legs_metal_light.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_legs_metal_light.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.62
+                }
+              }
+            ]
+          },
+          {
+            "id": "p3",
+            "title": "Cushions",
+            "name": "mat_cushions_fabric",
+            "variants": [
+              {
+                "id": "v1",
+                "title": "Green",
+                "name": "green",
+                "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/texture_wool_green.png",
+                "color": "yellowgreen",
+                "price": 1,
+                "srcs": {
+                  "ao": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_cushions_green.webp",
+                  "base": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/color_cushions_green.webp",
+                  "normal": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/normal_cushions_green.webp",
+                  "rough": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/orm_cushions_green.webp",
+                  "metallicFactor": 0,
+                  "roughnessFactor": 0.62
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "types": [
+      {
+        "id": "t1",
+        "titile": "Image 1",
+        "name": "image",
+        "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/thumbnail_leather_black.png",
+        "src": "https://cdn.heymstudio.de/data/files/samples/twiggy/render_leather_black.png"
+      },
+      {
+        "id": "t2",
+        "titile": "Image 2",
+        "name": "image",
+        "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/thumbnail_suede_brown.png",
+        "src": "https://cdn.heymstudio.de/data/files/samples/twiggy/render_suede_brown.png"
+      },
+      {
+        "id": "t3",
+        "titile": "Image 3",
+        "name": "image",
+        "icon": "https://cdn.heymstudio.de/data/files/samples/twiggy/thumbnail_wool_green.png",
+        "src": "https://cdn.heymstudio.de/data/files/samples/twiggy/render_wool-green.png"
+      },
+      {
+        "id": "t4",
+        "titile": "3D 1",
+        "name": "3d",
+        "default": true,
+        "poster": "https://cdn.heymstudio.de/data/files/samples/twiggy/render_leather_brown.png",
+        "src": "https://cdn.heymstudio.de/data/files/samples/twiggy/3d/3d_twiggy.glb"
+      },
+      {
+        "id": "t5",
+        "titile": "Video 1",
+        "name": "video",
+        "src": "https://cdn.heymstudio.de/data/files/samples/twiggy/video.mp4"
+      }
+    ]
+  },
+  "data": {}
+}
